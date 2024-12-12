@@ -82,7 +82,7 @@ def main():
     )
 
     # Add logo and title
-    logo_path = r"https://github.com/KevinFoyet/EduGenie/blob/main/EduGenie%20Logo.webp"
+    logo_path = r"https://raw.githubusercontent.com/KevinFoyet/EduGenie/refs/heads/main/EduGenie%20Logo.webp"
 
     # Create a centered layout using columns
     col1, col2, col3 = st.columns([3, 5, 3])  # Adjust column widths for centering
