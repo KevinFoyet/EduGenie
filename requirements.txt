@@ -1,5 +1,5 @@
 streamlit
-google.generativeai
+base64
+audio-recorder-streamlit
 openai
-streamlit_carousel
 python-dotenv
