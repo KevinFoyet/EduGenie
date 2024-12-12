@@ -1,0 +1,5 @@
+streamlit
+google.generativeai
+openai
+streamlit_carousel
+python-dotenv
